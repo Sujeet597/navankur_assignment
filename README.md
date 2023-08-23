@@ -1,24 +1,29 @@
 # Company_Assignment
 Complete Company Assignment, Upload data, pdf, Pagination
 #Dshboard
-![Screenshot (122)](https://github.com/Sujeet597/Navnkur_assesment/assets/75562365/3f58ccd9-c2be-4f1f-ad97-bc90bd400591)
+![Dashboard](https://github.com/Sujeet597/navankur_assignment/assets/75562365/4475b8b3-81a1-40e6-aeb8-9a971cebf547)
+
 
 #MarketPlace
 
-![Screenshot (123)](https://github.com/Sujeet597/Navnkur_assesment/assets/75562365/f37dd9e4-84fe-4623-9f2e-e64e1ecb29ae)
+![marketplace](https://github.com/Sujeet597/navankur_assignment/assets/75562365/9dfcf8ec-3adf-4156-b3c6-644f3fb9305e)
+
 
 #Product Detail
+![detail Product](https://github.com/Sujeet597/navankur_assignment/assets/75562365/b4e9f75a-735f-437a-896a-ec408e5d777a)
 
-![Screenshot (124)](https://github.com/Sujeet597/Navnkur_assesment/assets/75562365/6c44e9d1-e67f-4c58-bff6-0f74844610d5)
+
 
 #Request Form
 
-![Screenshot (125)](https://github.com/Sujeet597/Navnkur_assesment/assets/75562365/996f1886-e59b-4562-b2ca-e24c078b11a9)
+![form](https://github.com/Sujeet597/navankur_assignment/assets/75562365/1377178f-fbe4-421b-a743-9cc4f9f5a4f3)
+
 
 #Payment & invoices Table with Pdf Downloader
+![payment  invoice](https://github.com/Sujeet597/navankur_assignment/assets/75562365/72e0696c-1e3b-46c8-9a50-55101cd22f0e)
 
 
-![Screenshot (126)](https://github.com/Sujeet597/Navnkur_assesment/assets/75562365/9b61ba1a-29c4-45c6-ae11-5eac74b4b998)
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
